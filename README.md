@@ -1,7 +1,7 @@
 hexcamp-community-seahex
 ========================
 
-Data files for seahex.org.
+Data files for [seahex.org](https://seahex.org/)
 
 # License
 
